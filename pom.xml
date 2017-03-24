@@ -3,7 +3,7 @@
 	<groupId>org.zalexs</groupId>
 	<artifactId>NumberGenerator</artifactId>
 	<packaging>jar</packaging>
-	<version>1.6</version>
+	<version>1.7-SNAPSHOT</version>
 
 	<dependencies>
 		<dependency>
@@ -42,6 +42,6 @@
 
 	<scm>
 		<connection>scm:git:https://github.com/zalexs/git-test-project.git</connection>
-		<tag>ref-1.6</tag>
+		<tag>HEAD</tag>
 	</scm>
 </project>
