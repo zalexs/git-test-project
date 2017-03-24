@@ -28,4 +28,7 @@
 	</build>  
 
 
+	<scm>
+		<connection>scm:git:https://github.com/zalexs/git-test-project.git</connection>
+	</scm>
 </project>
