@@ -11,7 +11,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>11</java.version>
 	</properties>
-<!-- test   -->
+<!-- test -->
 	<scm>
 		<connection>scm:git:https://github.com/zalexs/git-test-project.git</connection>
 		<tag>HEAD</tag>
